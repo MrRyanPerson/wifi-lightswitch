@@ -1,3 +1,10 @@
+# Import config
+from lib.config import Config
+
+def connect(ssid, password) {
+
+}
+
 def main():
     print("Hello from transmitter!")
 
